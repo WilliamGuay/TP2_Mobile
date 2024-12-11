@@ -7,7 +7,7 @@ import java.net.HttpURLConnection
 import java.net.URL
 
 object SpoonacularService {
-    private const val API_KEY = "db9d7cd9019c4e0c8ccedf36e87ab90a"
+    private const val API_KEY = ""
 
     private const val API_URL_RANDOM =
         "https://api.spoonacular.com/recipes/random?number=10&apiKey=$API_KEY"
